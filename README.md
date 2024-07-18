@@ -91,8 +91,6 @@ pharmacy-management-system
 │   ├── src
 │   │   ├── components
 │   │   ├── pages
-│   │   ├── services
-│   │   │   ├── api.js
 │   │   ├── App.js
 │   │   ├── index.js
 └── README.md
