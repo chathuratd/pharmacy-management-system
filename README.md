@@ -9,7 +9,7 @@ This project is a Pharmacy Management System that includes a loyalty program and
 3. [Installation](#installation)
 4. [Running the Application](#running-the-application)
 5. [Directory Structure](#directory-structure)
-6. [Contributing](#contributing)
+6. [Screenshots](#screenshots)
 
 ## Features
 
@@ -43,7 +43,7 @@ This project is a Pharmacy Management System that includes a loyalty program and
 3. Create a `.env` file in the `backend` directory and add the following environment variables:
     ```sh
     PORT=4000
-    MONGO_URI=you_MONGO_URI
+    MONGO_URI=your_MONGO_URI
     JWT_SECRET=your_jwt_secret
     ```
 
@@ -96,11 +96,8 @@ pharmacy-management-system
 └── README.md
 ```
 
-## Contributing
+## Screenshots
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature-branch-name`.
-5. Submit a pull request.
+![image](https://github.com/user-attachments/assets/0955f350-8206-45f4-8bb4-31895506407a)
+
 
