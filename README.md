@@ -2,6 +2,15 @@
 
 This project is a Pharmacy Management System that includes a loyalty program and other essential features for managing a pharmacy. The application is built using React for the frontend and Node.js for the backend.
 
+## Current Hosting
+
+This application is currently hosted at [http://54.172.39.22:3000/](http://54.172.39.22:3000/) using two separate repositories named [PMS_backend](https://github.com/chathuratd/PMS_backend) and [PMS_frontend](https://github.com/chathuratd/PMS_frontend), with self-hosted runners. GitHub Actions is configured for continuous integration and deployment.
+
+You can use the following credentials to log in as a manager and check the loyalty program and other functions:
+
+- **Username:** manager@pms.dev
+- **Password:** itpITP123!
+
 ## Table of Contents
 
 1. [Features](#features)
